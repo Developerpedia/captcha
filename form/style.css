@@ -1,0 +1,73 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  body{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('img2.jpg');
+    background-size: cover;
+  }
+   h1{
+    Font-size:30px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:#fff;
+    padding-top:1ch;
+   }
+
+  .response{
+    color:#fff;
+  }
+ 
+  
+  input[type=text], input[type=Date], select, textarea{
+    width: 90%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius:25px 25px;
+    box-sizing:border-box;
+    margin-top: 4px;
+    margin-bottom: 16px;
+    margin-right:5ch;
+    margin-left:4ch;
+    background:transparent;
+    color:#fff;
+  }
+  
+  input[type=submit] {
+    background:#20b3d8;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin-left:18ch;
+    margin-bottom:2ch;
+    margin-top:2ch;
+    
+  }
+  
+  input[type=submit]:hover {
+    background-color: #2980b9;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background:transparent;
+    position:absolute;
+    top:13%;
+    left:32%;
+    right:35%;
+    margin-left:8ch;
+    border-radius:25px 25px;
+    border-style: groove;
+  }
+  
+  .container label{
+    margin-left:4ch;
+    color:whitesmoke;
+    font-family:cursive;
+  }
+
+  .container img{
+    padding-left:5ch;
+  }
