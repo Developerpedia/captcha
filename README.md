@@ -42,8 +42,19 @@ The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. 
 Simple Form with captcha code and timer of 3 minutes.
 User have to enter his/her data within 3 minutes.
 user have to provide his full name , E-mail Address, Date of Birth and user have to provide info about himself.
+if we refresh the page, the timer will not stop and it will continue.
+![image](https://user-images.githubusercontent.com/68114246/136845906-eb1277aa-058c-4307-903d-481caf7d85c2.png)
 
-# if we refresh the page timer will not stop
+# User input Data and Success Message
+When user provide his data and submit the form. 
+![image](https://user-images.githubusercontent.com/68114246/136847217-3b164390-a14c-49e1-b490-0bf05e1edb5e.png)
+A Success message is displayed on the top.
+![image](https://user-images.githubusercontent.com/68114246/136846809-656c633f-50a0-4663-b865-73f17b38ccba.png)
+
+# All the form data is saved in database
+![image](https://user-images.githubusercontent.com/68114246/136847261-ff476a56-736d-471f-a1f8-6f8c93c79ece.png)
 
 # Validation control/ Error message
 Suppose, if we leave some textbox empty it will show error that "All Fields are required".
+![image](https://user-images.githubusercontent.com/68114246/136846101-e3d2bb68-ef22-4d88-ad0d-511034ab4abe.png)
+
