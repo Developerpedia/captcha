@@ -48,7 +48,8 @@ if we refresh the page, the timer will not stop and it will continue.
 # User input Data and Success Message
 When user provide his data and submit the form. 
 ![image](https://user-images.githubusercontent.com/68114246/136847217-3b164390-a14c-49e1-b490-0bf05e1edb5e.png)
-A Success message is displayed on the top.
+
+A Success message is displayed on the top when user submits the form.
 ![image](https://user-images.githubusercontent.com/68114246/136846809-656c633f-50a0-4663-b865-73f17b38ccba.png)
 
 # All the form data is saved in database
